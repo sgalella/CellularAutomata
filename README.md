@@ -7,6 +7,7 @@ Different cellular automata implemented in NetLogo.
 3. [Brian's brain](https://en.wikipedia.org/wiki/Brian%27s_Brain)
 4. [Rule 110](https://en.wikipedia.org/wiki/Rule_110)
 5. [Rule 30](https://en.wikipedia.org/wiki/Rule_30)
+6. [Rule 90](https://en.wikipedia.org/wiki/Rule_90)
 
 
 
@@ -15,10 +16,11 @@ Different cellular automata implemented in NetLogo.
     <img width="200" height="200" src="images/Langton_Ant.gif">
     <img width="200" height="200" src="images/Brian_Brain.gif">
 </p>
-
 <p align="center">
     <img width="200" height="200"src="images/Rule_110.gif">
     <img width="200" height="200" src="images/Rule_30.gif">
+    <img width="200" height="200" src="images/Rule_90.gif">
 </p>
+
 
 
