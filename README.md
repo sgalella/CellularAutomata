@@ -23,4 +23,13 @@ Different cellular automata implemented in NetLogo.
 </p>
 
 
+## Usage
+
+Load the model in NetLogo and press `setup`to load the world. Draw a pattern or select one of the availables. Press the button `go` to start the simulation. For more information, check the `Info` tab in NetLogo.
+
+<p align="center">
+    <img width="900" height="450" src="images/screen.png">
+</p>
+
+Models have been tested in NetLogo 6.1.1.
 
