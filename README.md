@@ -1,6 +1,6 @@
 # Cellular Automata
 
-Different cellular automata implemented in NetLogo.
+Different [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) implemented in NetLogo.
 
 1. [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 2. [Langton's ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
